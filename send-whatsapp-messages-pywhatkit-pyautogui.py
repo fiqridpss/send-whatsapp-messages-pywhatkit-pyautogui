@@ -24,7 +24,7 @@ contactNumberArray = contactNumberAllClean.tolist()
 print(contactNumberArray)
 
 # phone and message send to target
-messageSend = 'ABAIKAN PESAN INI! PESAN UJI COBA PROGRAM PESAN OTOMATIS! Hai ini mahago'
+messageSend = 'HAlOOOOooooOOOOoooo'
 
 # to load WhatsApp Web
 loadTimeWA = 20 
