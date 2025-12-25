@@ -86,10 +86,10 @@ Before running this script, make sure you have:
 ```
 send-whatsapp-messages-pywhatkit-pyautogui/
 │
-├── send_whatsapp_messages.py    # Main script
-├── find_coordinates.py          # (Create) Helper script to find coordinates
-├── contact.csv                  # Your contact list
-└── README.md                    # Documentation
+├── send-whatsapp-messages-pywhatkit-pyautogui.py   # Main script
+├── find_coordinates.py                             # (Create) Helper script to find coordinates
+├── contact.csv                                     # Your contact list
+└── README.md                                       # Documentation
 ```
 
 ## License
