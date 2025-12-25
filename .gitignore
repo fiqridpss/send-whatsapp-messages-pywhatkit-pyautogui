@@ -1,10 +1,7 @@
 # Virtual Environment
 .venv/
 venv/
-env/
-
-# Data Files (Private Info)
-contact_gopus_gokir_dea_finish.csv
+env/s
 
 # Python Cache
 __pycache__/
