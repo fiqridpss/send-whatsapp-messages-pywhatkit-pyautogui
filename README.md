@@ -50,9 +50,8 @@ print(contactNumberAll)
 ```
 ```csv
 Number Contact,Group
- +62 813-6033-9061,Secret
- +62 812-6589-8260,Secret
- +62 812-4812-6005,Secret
+ +62 812-3456-7890,Secret
+ +62 890-1234-5678,Secret
 ```
 
 5. Adjust the deletion of contact numbers in this case with spaces and hyphens "-" (+62 812-4812-6005 -> +6281248126005)
